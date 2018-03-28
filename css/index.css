@@ -237,7 +237,7 @@
     width: 290px;
     position: absolute;
     top: -167px;
-    left: 0px;
+    left: 270px;
     z-index: 10;
 }
 .list img{
@@ -253,7 +253,7 @@
     background: #FF0036;
     position: absolute;
     top: -36px;
-    left: 45px;
+    left: 315px;
 }
 .fenlei i{
     font-family: 'iconfont';
@@ -293,7 +293,7 @@
 }
 .bimgs1{
     position: absolute;
-    right: 20px;
+    right: 320px;
     top: 10px;
     width: 220px;
     height: 235px;
@@ -302,7 +302,7 @@
 }
 .bimgs2{
     position: absolute;
-    right: 20px;
+    right: 320px;
     top: 255px;
     width: 220px;
     height: 235px;
@@ -345,7 +345,7 @@
     background-color: rgba(0,0,0,.55);
     position: absolute;
     top: 0;
-    left: 45px;
+    left: 315px;
     z-index: 999;
 }
 .bannerlist ul li{
